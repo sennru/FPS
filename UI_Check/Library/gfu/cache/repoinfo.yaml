@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-05-22T14:03:42.602+09:00
+  lastUpdatedAtString: 2022-05-22T14:50:30.776+09:00
   initializedAtString: 2022-05-22T14:00:50.807+09:00
   currentGitRemote:
     name: origin
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: alpha
+    tracking: 
   currentConfigBranch:
-    name: main
+    name: alpha
     remote:
-      name: origin
-      url: https://github.com/sennru/FPS
-    trackingBranch: main
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/sennru/FPS

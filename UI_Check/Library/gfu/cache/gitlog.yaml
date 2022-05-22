@@ -13,9 +13,2055 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-05-22T14:03:45.329+09:00
+  lastUpdatedAtString: 2022-05-22T14:50:35.546+09:00
   initializedAtString: 2022-05-22T14:03:45.329+09:00
   log:
+  - commitID: 96a69b140b1bee54391f95c9322faa162ca10587
+    mergeA: 674250e105106b420001822f9183e23087563f95
+    mergeB: 80382f4dfbe8dbdf8231a8ee74f1dea01d9018bb
+    authorName: Kohei Keta
+    authorEmail: 59905087+Tech-Nayuta@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Merge pull request #1 from sennru/kohei
+    description: "\u3053\u3093\u306B\u3061\u306F\uFF01"
+    timeString: 2022-05-22T14:31:30.000+09:00
+    commitTimeString: 2022-05-22T14:31:30.000+09:00
+    changes: []
+  - commitID: 80382f4dfbe8dbdf8231a8ee74f1dea01d9018bb
+    mergeA: 
+    mergeB: 
+    authorName: Tech-Nayuta
+    authorEmail: ketanayutawork@gmail.com
+    commitEmail: ketanayutawork@gmail.com
+    commitName: Tech-Nayuta
+    summary: "\u3053\u3093\u306B\u3061\u306F\uFF01"
+    description: 
+    timeString: 2022-05-22T14:21:18.000+09:00
+    commitTimeString: 2022-05-22T14:21:18.000+09:00
+    changes:
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\AccessingPlastic.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\AccessingPlastic.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\AccessingPlastic.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\AdvancedFeatures.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\AdvancedFeatures.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\AdvancedFeatures.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\AutomaticSetup.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\AutomaticSetup.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\AutomaticSetup.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\FileHistory.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\FileHistory.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\FileHistory.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\GameSceneExample.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\GameSceneExample.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\GameSceneExample.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\GamesSceneExample.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\GamesSceneExample.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\GamesSceneExample.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\GearIconOptions.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\GearIconOptions.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\GearIconOptions.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\IncomingChanges.gif
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\IncomingChanges.gif"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\IncomingChanges.gif
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\InspectorWindow.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\InspectorWindow.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\InspectorWindow.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\Onboarding.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\Onboarding.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\Onboarding.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\PendingChanges.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\PendingChanges.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\PendingChanges.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\ProjectHistory.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\ProjectHistory.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\ProjectHistory.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\ProjectView.gif
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\ProjectView.gif"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\ProjectView.gif
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\SwitchCollab.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\SwitchCollab.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\SwitchCollab.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\TurnOffPlastic.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\TurnOffPlastic.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\TurnOffPlastic.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\plasticHub.gif
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Documentation~\\images\\plasticHub.gif"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Documentation~\images\plasticHub.gif
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\added-file-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\added-file-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\added-file-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\added-file-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\added-file-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\back-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\back-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\back-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\back-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\back-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-mine-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-mine-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-mine-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-mine-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-mine-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-remote-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-remote-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-remote-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\choose-remote-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\choose-remote-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\clear-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\clear-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\clear-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\clear-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\clear-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-available-changes-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-available-changes-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-available-changes-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-available-changes-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-available-changes-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-done-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-done-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-done-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-done-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-done-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-error-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-error-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-error-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-error-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-error-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-incoming-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-incoming-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-incoming-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-incoming-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-incoming-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-offline-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-offline-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-offline-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-offline-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-offline-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-progress-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-progress-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-progress-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-progress-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-progress-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-warning-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-warning-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-warning-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\collaborate-warning-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\collaborate-warning-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\conflicted-file-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\conflicted-file-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\conflicted-file-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\conflicted-file-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\conflicted-file-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\deleted-file-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\deleted-file-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\deleted-file-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\deleted-file-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\deleted-file-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\diff-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\diff-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\diff-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\diff-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\diff-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\edited-file-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\edited-file-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\edited-file-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\edited-file-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\edited-file-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\loading-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\loading-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\loading-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\loading-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\loading-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-conflicts-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-conflicts-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-conflicts-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-conflicts-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-conflicts-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\merge-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\merge-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\more-vert-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\more-vert-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\more-vert-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\more-vert-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\more-vert-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\moved-file-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\moved-file-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\moved-file-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\moved-file-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\moved-file-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\publish-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\publish-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\publish-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\publish-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\publish-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\revert-asset-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\revert-asset-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\revert-asset-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\revert-asset-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\revert-asset-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\search-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\search-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\search-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\search-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\search-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\show-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\show-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\show-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\show-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\show-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-error-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-error-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-error-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-error-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-error-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-info-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-info-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-info-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-info-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-info-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-warning-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-warning-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-warning-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\status-warning-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\status-warning-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-dark.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\undo-dark.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-dark.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-dark@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\undo-dark@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-dark@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-light.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\undo-light.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-light.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-light@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\Collaborate\\Assets\\Icons\\undo-light@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\Collaborate\Assets\Icons\undo-light@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigninemail.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\buttonssosigninemail.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigninemail.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigninemail@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\buttonssosigninemail@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigninemail@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigningoogle.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\buttonssosigningoogle.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigningoogle.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigninunity.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\buttonssosigninunity.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\buttonssosigninunity.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_buttonssosigninemail.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_buttonssosigninemail.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_buttonssosigninemail.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_buttonssosigninemail@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_buttonssosigninemail@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_buttonssosigninemail@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuho.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_cloudbuho.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuho.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuhochristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_cloudbuhochristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuhochristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuhoshe.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_cloudbuhoshe.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuhoshe.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuhoshechristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_cloudbuhoshechristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_cloudbuhoshechristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuho.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_colorbuho.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuho.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuhochristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_colorbuhochristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuhochristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuhoshe.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_colorbuhoshe.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuhoshe.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuhoshechristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_colorbuhoshechristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_colorbuhoshechristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuho.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_expertbuho.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuho.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuhochristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_expertbuhochristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuhochristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuhoshe.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_expertbuhoshe.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuhoshe.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuhoshechristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_expertbuhoshechristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_expertbuhoshechristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuho1.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuho1.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuho1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuho2.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuho2.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuho2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuho3.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuho3.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuho3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhochristmas1.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhochristmas1.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhochristmas1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhochristmas2.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhochristmas2.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhochristmas2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhochristmas3.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhochristmas3.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhochristmas3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshe1.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhoshe1.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshe1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshe2.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhoshe2.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshe2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshe3.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhoshe3.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshe3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshechristmas1.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhoshechristmas1.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshechristmas1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshechristmas2.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhoshechristmas2.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshechristmas2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshechristmas3.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_genericbuhoshechristmas3.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_genericbuhoshechristmas3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedlocal.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconaddedlocal.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedlocal.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedlocal@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconaddedlocal@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedlocal@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconaddedoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconaddedoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconaddedoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconbranch.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconbranch.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconbranch.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconbranch@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconbranch@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconbranch@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconcheckedoutlocaloverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconcheckedoutlocaloverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconcheckedoutlocaloverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconcheckedoutlocaloverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconcheckedoutlocaloverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconcheckedoutlocaloverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflicted.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconconflicted.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflicted.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflicted@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconconflicted@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflicted@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflictresolvedoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconconflictresolvedoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflictresolvedoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflictresolvedoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconconflictresolvedoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconconflictresolvedoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedlocaloverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_icondeletedlocaloverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedlocaloverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedlocaloverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_icondeletedlocaloverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedlocaloverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremote.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_icondeletedremote.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremote.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremote@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_icondeletedremote@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremote@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremoteoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_icondeletedremoteoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremoteoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremoteoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_icondeletedremoteoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_icondeletedremoteoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconemptygravatar.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconemptygravatar.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconemptygravatar.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconemptygravatar@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconemptygravatar@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconemptygravatar@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedlocaloverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconlockedlocaloverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedlocaloverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedlocaloverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconlockedlocaloverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedlocaloverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedremoteoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconlockedremoteoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedremoteoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedremoteoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconlockedremoteoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconlockedremoteoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconmergeconflictoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconmergeconflictoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconmergeconflictoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconmergeconflictoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconmergeconflictoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconmergeconflictoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsync.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconoutofsync.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsync.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsync@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconoutofsync@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsync@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsyncoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconoutofsyncoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsyncoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsyncoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconoutofsyncoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconoutofsyncoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyconflict.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticnotifyconflict.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyconflict.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyconflict@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticnotifyconflict@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyconflict@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyincoming.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticnotifyincoming.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyincoming.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyincoming@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticnotifyincoming@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticnotifyincoming@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticview.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticview.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticview.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticview@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticview@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticview@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticviewnotify.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticviewnotify.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticviewnotify.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticviewnotify@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconplasticviewnotify@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconplasticviewnotify@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconprivateoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconprivateoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconprivateoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconprivateoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconprivateoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconprivateoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconundo.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconundo.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconundo.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconundo@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_iconundo@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_iconundo@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_ignoredoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_ignoredoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_ignoredoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_ignoredoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_ignoredoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_ignoredoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_loading.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_loading.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_loading.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_loading@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_loading@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_loading@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step1.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_step1.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step1@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_step1@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step1@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step2.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_step2.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step2@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_step2@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step2@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step3.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_step3.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step3@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_step3@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_step3@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stepok.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_stepok.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stepok.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stepok@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_stepok@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stepok@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuho.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_stevejobsbuho.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuho.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuhochristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_stevejobsbuhochristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuhochristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuhoshe.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_stevejobsbuhoshe.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuhoshe.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuhoshechristmas.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\d_stevejobsbuhoshechristmas.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\d_stevejobsbuhoshechristmas.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconadded.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconadded.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconadded.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedlocal.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconaddedlocal.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedlocal.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedlocal@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconaddedlocal@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedlocal@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconaddedoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconaddedoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconaddedoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconbranch.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconbranch.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconbranch.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconbranch@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconbranch@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconbranch@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconchanged.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconchanged.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconchanged.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconcheckedoutlocaloverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconcheckedoutlocaloverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconcheckedoutlocaloverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconcheckedoutlocaloverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconcheckedoutlocaloverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconcheckedoutlocaloverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconclosebutton.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconclosebutton.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconclosebutton.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflicted.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconconflicted.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflicted.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflicted@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconconflicted@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflicted@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflictresolvedoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconconflictresolvedoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflictresolvedoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflictresolvedoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconconflictresolvedoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconconflictresolvedoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeleted.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\icondeleted.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeleted.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedlocaloverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\icondeletedlocaloverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedlocaloverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedlocaloverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\icondeletedlocaloverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedlocaloverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremote.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\icondeletedremote.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremote.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremote@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\icondeletedremote@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremote@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremoteoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\icondeletedremoteoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremoteoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremoteoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\icondeletedremoteoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\icondeletedremoteoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconemptygravatar.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconemptygravatar.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconemptygravatar.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconemptygravatar@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconemptygravatar@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconemptygravatar@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconfschanged.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconfschanged.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconfschanged.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedlocaloverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconlockedlocaloverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedlocaloverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedlocaloverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconlockedlocaloverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedlocaloverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedremoteoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconlockedremoteoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedremoteoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedremoteoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconlockedremoteoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconlockedremoteoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergecategory.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconmergecategory.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergecategory.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergeconflict.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconmergeconflict.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergeconflict.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergeconflictoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconmergeconflictoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergeconflictoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergeconflictoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconmergeconflictoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergeconflictoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmerged.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconmerged.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmerged.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergelink.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconmergelink.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmergelink.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmoved.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconmoved.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconmoved.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsync.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconoutofsync.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsync.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsync@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconoutofsync@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsync@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsyncoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconoutofsyncoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsyncoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsyncoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconoutofsyncoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconoutofsyncoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplastic.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplastic.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplastic.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyconflict.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticnotifyconflict.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyconflict.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyconflict@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticnotifyconflict@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyconflict@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyincoming.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticnotifyincoming.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyincoming.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyincoming@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticnotifyincoming@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticnotifyincoming@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticview.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticview.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticview.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticview@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticview@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticview@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticviewnotify.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticviewnotify.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticviewnotify.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticviewnotify@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconplasticviewnotify@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconplasticviewnotify@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconpressedclosebutton.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconpressedclosebutton.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconpressedclosebutton.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconprivateoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconprivateoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconprivateoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconprivateoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconprivateoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconprivateoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconrepository.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconrepository.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconrepository.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconundo.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconundo.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconundo.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconundo@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\iconundo@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\iconundo@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ignored.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\ignored.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ignored.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ignoredoverlay.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\ignoredoverlay.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ignoredoverlay.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ignoredoverlay@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\ignoredoverlay@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ignoredoverlay@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\loading.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\loading.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\loading.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\loading@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\loading@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\loading@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\notondisk.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\notondisk.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\notondisk.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ok.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\ok.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\ok.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step1.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\step1.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step1@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\step1@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step1@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step2.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\step2.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step2@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\step2@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step2@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step3.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\step3.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step3@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\step3@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\step3@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\stepok.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\stepok.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\stepok.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\stepok@2x.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\stepok@2x.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\stepok@2x.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\xlink.png
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Editor\\PlasticSCM\\Assets\\Images\\xlink.png"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Editor\PlasticSCM\Assets\Images\xlink.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Lib\\Editor\\PlasticSCM\\Unity.Plastic.Antlr3.Runtime.dll"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Lib\\Editor\\PlasticSCM\\Unity.Plastic.Newtonsoft.Json.dll"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\log4netPlastic.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Lib\\Editor\\PlasticSCM\\log4netPlastic.dll"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\log4netPlastic.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\lz4x64Plastic.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Lib\\Editor\\PlasticSCM\\lz4x64Plastic.dll"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\lz4x64Plastic.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\unityplastic.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Lib\\Editor\\PlasticSCM\\unityplastic.dll"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\unityplastic.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\zlib64Plastic.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.collab-proxy@1.15.1\\Lib\\Editor\\PlasticSCM\\zlib64Plastic.dll"
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.15.1\Lib\Editor\PlasticSCM\zlib64Plastic.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\AOT\Newtonsoft.Json.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@2.0.0\\Runtime\\AOT\\Newtonsoft.Json.dll"
+      projectPath: Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\AOT\Newtonsoft.Json.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@2.0.0\\Runtime\\Newtonsoft.Json.dll"
+      projectPath: Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: UI_Check\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Portable\Newtonsoft.Json.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@2.0.0\\Runtime\\Portable\\Newtonsoft.Json.dll"
+      projectPath: Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Portable\Newtonsoft.Json.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: kohei.txt
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\kohei.txt"
+      projectPath: ..\kohei.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 674250e105106b420001822f9183e23087563f95
+    mergeA: 
+    mergeB: 
+    authorName: sennru
+    authorEmail: childrennano3049@gmail.com
+    commitEmail: childrennano3049@gmail.com
+    commitName: sennru
+    summary: Script Changed
+    description: 
+    timeString: 2022-05-22T14:04:48.000+09:00
+    commitTimeString: 2022-05-22T14:04:48.000+09:00
+    changes:
+    - path: UI_Check\Assets\Scenes\UIManeger.cs
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Assets\\Scenes\\UIManeger.cs"
+      projectPath: Assets\Scenes\UIManeger.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\ArtifactDB
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\ArtifactDB"
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\Artifacts\81\8159a61ea8c049117f2f0aeb405f1c91
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\Artifacts\\81\\8159a61ea8c049117f2f0aeb405f1c91"
+      projectPath: Library\Artifacts\81\8159a61ea8c049117f2f0aeb405f1c91
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\Library\EditorInstance.json
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\EditorInstance.json"
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\Library\SceneVisibilityState.asset
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\SceneVisibilityState.asset"
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\ScriptAssemblies\\Assembly-CSharp.dll"
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\SourceAssetDB
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\SourceAssetDB"
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\StateCache\MainStageHierarchy\e5\e53b2f2b2f5957ecd031616ee9773757.json
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\StateCache\\MainStageHierarchy\\e5\\e53b2f2b2f5957ecd031616ee9773757.json"
+      projectPath: Library\StateCache\MainStageHierarchy\e5\e53b2f2b2f5957ecd031616ee9773757.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\gfu\cache\branches.yaml
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\gfu\\cache\\branches.yaml"
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\gfu\cache\gitlocks.yaml
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\gfu\\cache\\gitlocks.yaml"
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\gfu\cache\gitlog.yaml
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\gfu\\cache\\gitlog.yaml"
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\gfu\\cache\\gitstatusentries.yaml"
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\gfu\\cache\\gittrackingstatus.yaml"
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\gfu\cache\gituser.yaml
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\gfu\\cache\\gituser.yaml"
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Library\gfu\cache\repoinfo.yaml
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Library\\gfu\\cache\\repoinfo.yaml"
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe0.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe1.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe2.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe3.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe4.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe5.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe6.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Logs\\shadercompiler-UnityShaderCompiler.exe7.log"
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UI_Check\Temp\Assembly-CSharp.dll.hash
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Temp\\Assembly-CSharp.dll.hash"
+      projectPath: Temp\Assembly-CSharp.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\Temp\CompilationLog.txt
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Temp\\CompilationLog.txt"
+      projectPath: Temp\CompilationLog.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\Temp\UnityTempFile-b36dd60db8cb3b14a851ab29ee2a069e
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Temp\\UnityTempFile-b36dd60db8cb3b14a851ab29ee2a069e"
+      projectPath: Temp\UnityTempFile-b36dd60db8cb3b14a851ab29ee2a069e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\Temp\workerlic
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\Temp\\workerlic"
+      projectPath: Temp\workerlic
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\obj\\Debug\\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache"
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\obj\\Debug\\Assembly-CSharp-firstpass.csprojAssemblyReference.cache"
+      projectPath: obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UI_Check\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: "C:\\Users\\norig\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\FPS\\UI_Check\\obj\\Debug\\Assembly-CSharp.csprojAssemblyReference.cache"
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a657f60ea6b9e4e56f1be586566da76f9c17ea64
     mergeA: 
     mergeB: 
