@@ -15,6 +15,7 @@ public class UIManeger : MonoBehaviour
     void Start()
     {
         MoveToMenu();
+        Debug.Log("confirm");
     }
 
     // Update is called once per frame
